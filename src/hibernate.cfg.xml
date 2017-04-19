@@ -11,7 +11,7 @@
 			org.hibernate.dialect.MySQLDialect
 		</property>
 		<property name="connection.url">
-			jdbc:mysql://123.206.220.79:3306/xkxt
+			jdbc:mysql://localhost:3306/xkxt
 		</property>
 		<property name="connection.useUnicode">true</property>
 		<property name="connection.characterEncoding">utf-8</property>
